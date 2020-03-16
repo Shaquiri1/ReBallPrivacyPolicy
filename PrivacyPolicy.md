@@ -25,8 +25,8 @@ The app does use third party services that may collect information used to ident
 
 Third party service providers used by the app
 
-Google Play Services
-Unity
+Google Play Services\
+Unity\
 Log Data
 
 We want to inform you that whenever you use our Service, in a case of an error in the app 
