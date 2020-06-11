@@ -26,6 +26,7 @@ The app does use third party services that may collect information used to ident
 Third party service providers used by the app
 
 Google Play Services\
+Microsoft Playfab\
 Unity\
 Log Data
 
